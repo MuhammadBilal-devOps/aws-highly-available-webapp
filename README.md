@@ -30,7 +30,7 @@ This project demonstrates a **highly available, multi-tier web application** dep
 
 <div align="center">
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 </div>
 
