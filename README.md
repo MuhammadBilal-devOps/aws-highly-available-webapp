@@ -93,11 +93,11 @@ Amazon VPC — 10.0.0.0/16 (Bilal-AWS-Project)
 
 | | |
 |--|--|
-| ![Live Website](screenshots/live-website.png) | ![EC2 Instances](screenshots/ec2-instances.png) |
+| ![Live Website](live-website.png) | ![EC2 Instances](ec2-instances.png) |
 | 🌐 **Live Website via Custom Domain** | ⚙️ **EC2 Instances — Auto Scaling Running** |
-| ![VPC Dashboard](screenshots/vpc-dashboard.png) | ![RDS MySQL](screenshots/rds-mysql-connected.png) |
+| ![VPC Dashboard](vpc-dashboard.png) | ![RDS MySQL](/rds-mysql-connected.png) |
 | 🔷 **Custom VPC — Bilal-AWS-Project** | 🗄️ **RDS MySQL Connected via Bastion** |
-| ![Bastion RDP](screenshots/bastion-rdp.png) | ![Architecture](screenshots/architecture-diagram.png) |
+| ![Bastion RDP](bastion-rdp.png) | ![Architecture](architecture-diagram.png) |
 | 🔒 **Bastion Host → Private EC2 RDP** | 📐 **Full Architecture Diagram** |
 
 ---
